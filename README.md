@@ -21,4 +21,5 @@
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
 [![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzigurella&hide=TeX&layout=compact)
+![Langs][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gzigurella&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
