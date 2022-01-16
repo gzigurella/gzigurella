@@ -6,7 +6,7 @@
 - 💬 Ask me about *the videogames I like!*
 - 📫 How to reach me: gzigurella99@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: **I like dinosaurs!**
+- ⚡ Fun fact: **I like videogames!**
 
 ## ⚡ My technologies
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
