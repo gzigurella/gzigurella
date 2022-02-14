@@ -2,7 +2,7 @@
 
 :alien: Here is something about me, but not everything :-)
 
-- 🔭 I’m currently working on *a File Storage Server for my Operative System course* at the University of Pisa
+- 🔭 I’m currently working on *Meta-AI, the artificial intelligence that teaches you about artificial intelligence* during my free time
 - 💬 Ask me about *the videogames I like!*
 - 📫 How to reach me: gzigurella99@gmail.com
 - 😄 Pronouns: He/His
