@@ -3,5 +3,6 @@
 :alien: DevOps since 2015
 
 - 🔭 I'm not working on anything in particular, just Leveling 🆙 my knowledge
-- 📫 How to reach me for jobs: gabriele.zigurella@pec.it
+- 📫 How to reach me: gzigurella99@gmail.com
+- 📫 Qualified Electronic Registered Delivery Service (QERDS): gabriele.zigurella@pec.it
 - 😄 Pronouns: He/His
