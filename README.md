@@ -5,7 +5,6 @@
   
   **DevOps Engineer | Infrastructure Automation Enthusiast | Open Source Contributor**
   
-  [![Blog](https://img.shields.io/badge/Blog-brokenpipe.blog-blue?style=flat-square)](https://brokenpipe.blog)
   [![Location](https://img.shields.io/badge/📍-Italy-green?style=flat-square)](https://github.com/gzigurella)
   [![Followers](https://img.shields.io/github/followers/gzigurella?style=flat-square&logo=github)](https://github.com/gzigurella?tab=followers)
   
@@ -17,12 +16,12 @@
 
 Raaawwrrr! I'm a dinosaur who survived the DevOps evolution since **2015** 🚀
 
-Currently exploring the intersection of **infrastructure automation**, **cloud-native technologies**, and **continuous delivery pipelines**. When I'm not taming servers, I'm writing about my adventures on [brokenpipe.blog](https://brokenpipe.blog).
+Currently exploring the intersection of **infrastructure automation**, **cloud-native technologies**, and **continuous delivery pipelines**.
 
 - 🔧 Building: Scalable infrastructure solutions and automation tools
 - 🌱 Learning: Vision-Language-Action models, scalable and distributed transformers
 - 💡 Passionate about: Clean code, infrastructure as code, and developer productivity
-- 🎯 2026 Goals: Contribute more to open source DevOps tools, share knowledge through blogging
+- 🎯 2026 Goals: Contribute more to open source DevOps tools
 
 ---
 
@@ -60,15 +59,6 @@ Currently exploring the intersection of **infrastructure automation**, **cloud-n
 ## 🚀 Featured Projects
 
 Check out some of my work pinned on my Github profile
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Puoi automatizzare questo con GitHub Actions -->
-Visit [brokenpipe.blog](https://brokenpipe.blog) to read something from my war trenches!
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
