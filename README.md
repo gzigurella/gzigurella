@@ -68,7 +68,6 @@ Check out some of my work pinned on my Github profile
   
   [![Email](https://img.shields.io/badge/Email-gzigurella99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gzigurella99@gmail.com)
   [![PEC](https://img.shields.io/badge/PEC-gabriele.zigurella@pec.it-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gabriele.zigurella@pec.it)
-  [![Blog](https://img.shields.io/badge/Blog-brokenpipe.blog-blue?style=for-the-badge&logoColor=white)](https://brokenpipe.blog)
   
 </div>
 
